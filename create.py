@@ -1,2 +1,3 @@
-miasdnf
+def main():
 
+main()
